@@ -1,0 +1,39 @@
+/* formatação pagina contratempo e clube da luta */
+
+h1
+    {
+        font-size: 34px;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        color:rgb(0, 0, 0); 
+    }
+
+body
+    {  
+        font size: 18px;
+        color: black;
+    }
+ 
+h3
+    {
+        font-size: 22px;
+        font-family: 'Courier New', Courier, monospace;
+        font-style: italic;
+        color: rgb(4, 63, 102);  
+    }
+
+h4 
+    {
+        font-size: 22px;
+        font-family: 'Courier New', Courier, monospace;
+        font-style: italic;
+        color: rgb(4, 63, 102);  
+    }
+
+h5      
+    {
+        font-size: 22px;
+        font-family: 'Courier New', Courier, monospace;
+        font-style: italic;
+        color: rgb(4, 63, 102);                                                                                                                                                     
+    }
